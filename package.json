@@ -1,0 +1,23 @@
+{
+  "name": "vue2-webpack3",
+  "version": "1.0.0",
+  "description": "vue2 webpack3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidongdong64/vue2-webpack3.git"
+  },
+  "keywords": [
+    "vue2",
+    "webpack3"
+  ],
+  "author": "lidongdong64",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lidongdong64/vue2-webpack3/issues"
+  },
+  "homepage": "https://github.com/lidongdong64/vue2-webpack3#readme"
+}
